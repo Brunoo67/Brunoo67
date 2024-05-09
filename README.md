@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- Eu tenho 21 anos
+- Eu tenho x anos
 
 - Estou procurando uma vaga de estágio
 
