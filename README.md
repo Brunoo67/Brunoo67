@@ -2,8 +2,6 @@
 
 ## Sobre mim
 
-- Eu tenho x anos
-
 - Estou procurando uma vaga de estágio
 
 - Quero me tornar um Desenvolvedor
