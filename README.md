@@ -1,7 +1,5 @@
 ### Olá, eu sou o Bruno 👌
 
-## Sobre mim
-
 - Estou procurando uma vaga de estágio
 
 - Quero me tornar um Desenvolvedor
